@@ -36,11 +36,3 @@
 [![](https://visitcount.itsvg.in/api?id=Jadhavvarun&icon=9&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jadhavvarun&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Jadhavvarun&icon=8&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
