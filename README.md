@@ -6,17 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/varun_jadhav67" target="blank"><img src="https://img.shields.io/twitter/follow/varun_jadhav67?logo=twitter&style=for-the-badge" alt="varun_jadhav67" /></a> </p>
 
--  🔭 I’m currently working on **Full Stack Development**
-
-- 🌱 I’m currently learning **MERN Stack and Data Structures & Algorithm**
-
-- 👯 I’m looking to collaborate on **Open Source Project**
-
-- 👨‍💻 All of my projects are available at [https://varuns-portfolio.vercel.app/](https://varuns-portfolio.vercel.app/)
-
-- 💬 Ask me about **React.js and Next.js**
-
-- 📫 How to reach me **jadhavvarun67@gmail.com**
+# 💫 About Me:
+→  🔭 I’m currently working on **Full Stack Development**<br><br>
+→ 🌱 I’m currently learning **MERN Stack and Data Structures & Algorithm**<br><br>
+→ 👯 I’m looking to collaborate on **Open Source Project**<br><br>
+→ 👨‍💻 All of my projects are available at [https://varuns-portfolio.vercel.app/](https://varuns-portfolio.vercel.app/)<br><br>
+→ 💬 Ask me about **React.js and Next.js**<br><br>→ 📫 How to reach me **jadhavvarun67@gmail.com**<br>
 
 
 ## 🌐 Socials:
