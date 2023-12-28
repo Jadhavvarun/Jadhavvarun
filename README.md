@@ -1,7 +1,7 @@
 ![MasterHead](https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png)
 <h1 align="center">Hi 👋, I'm Varun Jadhav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
 
 <p align="left"> <a href="https://twitter.com/varun_jadhav67" target="blank"><img src="https://img.shields.io/twitter/follow/varun_jadhav67?logo=twitter&style=for-the-badge" alt="varun_jadhav67" /></a> </p>
