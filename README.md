@@ -1,4 +1,4 @@
-[![@jadhavvarun's Holopin board](https://holopin.io/api/user/board?user=jadhavvarun)](https://holopin.io/@jadhavvarun)
+[![An image of @jadhavvarun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jadhavvarun)](https://holopin.io/@jadhavvarun)
 <h1 align="center">Hi 👋, I'm Varun Jadhav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
