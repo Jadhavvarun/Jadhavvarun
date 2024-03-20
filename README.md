@@ -1,11 +1,11 @@
+![](https://i.imgur.com/waxVImv.png)
+
 [![An image of @jadhavvarun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jadhavvarun)](https://holopin.io/@jadhavvarun)
 
 ![](https://i.imgur.com/waxVImv.png)
 
 <h1 align="center">Hi 👋, I'm Varun Jadhav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
-![](https://i.imgur.com/waxVImv.png)
 
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
