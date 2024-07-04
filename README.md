@@ -4,7 +4,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-<h1 align="center">Hi ðŸ‘‹, I'm Varun Jadhav</h1>
+<h1 align="center">Hi 👋, I'm Varun Jadhav</h1>
 <h3 align="center">A Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhavvarun&label=Profile%20views&color=0e75b6&style=flat" alt="jadhavvarun" /> </p>
@@ -14,6 +14,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 About Me:
+
 →  🔭 I’m currently working on **Full Stack Development**<br><br>
 → 🌱 I’m currently learning **MERN Stack and Data Structures & Algorithm**<br><br>
 → 👯 I’m looking to collaborate on **Open Source Project**<br><br>
