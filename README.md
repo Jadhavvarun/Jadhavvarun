@@ -16,10 +16,10 @@
 <h3 align="left">About Me:</h3>
 
 →  🔭 I’m currently working on **Full Stack Development**<br><br>
-→ 🌱 I’m currently learning **MERN Stack and Data Structures & Algorithm**<br><br>
+→ 🌱 I’m currently learning **MERN Stack and MEAN Stack**<br><br>
 → 👯 I’m looking to collaborate on **Open Source Project**<br><br>
 → 👨‍💻 All of my projects are available at [https://varuns-portfolio.vercel.app/](https://varuns-portfolio.vercel.app/)<br><br>
-→ 💬 Ask me about **React.js and Next.js**<br><br>→ 📫 How to reach me **jadhavvarun67@gmail.com**<br>
+→ 📫 How to reach me **jadhavvarun67@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
