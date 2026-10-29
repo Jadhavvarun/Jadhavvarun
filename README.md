@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,28,99,102,241,168,85,247&height=220&section=header&text=Varun%20Jadhav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Lead%20@%20invocreto&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,28,99,102,241,168,85,247&height=220&section=header&text=Varun%20Jadhav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Lead%20&descAlignY=60&descAlign=50" width="100%" />
 
   <p align="center">
     <a href="https://varunjadhav.in"><img src="https://img.shields.io/badge/Portfolio-varunjadhav.in-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-Experienced **Full Stack Developer** and **Frontend Lead** at **invocreto** specializing in engineering scalable frontend architectures, resilient microservices, and high-performance React & Next.js applications.
+Experienced **Full Stack Developer** and **Frontend Developer** specializing in engineering scalable frontend architectures, resilient microservices, and high-performance React & Next.js applications.
 
 - 🔭 **Current Focus:** Leading frontend architecture, enterprise design tokens, and modular UI systems.
 - ⚡ **Specialties:** Next.js (App & Pages Router), React 19, TypeScript, Node.js, and containerized Docker deployments.
